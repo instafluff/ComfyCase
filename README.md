@@ -1,0 +1,2 @@
+# ComfyCase
+Comfiest ESLint Settings
