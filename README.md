@@ -9,7 +9,10 @@ How to configure your project to use these ESLint settings.
 ## TypeScript
 To set up ESLint with this configuration in your TypeScript project, you can follow these steps:
 
-1. Install the necessary dev dependencies along with ComfyCase: `npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin comfycase`
+1. Install the necessary dev dependencies along with ComfyCase:
+```Bash
+npm install --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin comfycase
+```
 2. Create an `.eslintrc.json` file in the root of your project and define your configuration rules, extending from ComfyCase:
 ```JavaScript
 {
@@ -42,7 +45,10 @@ To set up ESLint with this configuration in your TypeScript project, you can fol
 ## JavaScript
 To setup ESLint with this configuration in your JavaScript project, you can follow these steps:
 
-1. Install the necessary dev dependencies: `npm install --save-dev eslint comfycase`
+1. Install the necessary dev dependencies:
+```Bash
+npm install --save-dev eslint comfycase
+```
 2. Create an `.eslintrc.json` file in the root of your project and define your configuration rules:
 ```JavaScript
 {

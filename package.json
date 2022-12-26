@@ -1,9 +1,10 @@
 {
-  "name": "comfycase",
+  "name": "eslint-config-comfycase",
   "version": "0.1.0",
   "description": "Comfiest ESLint Settings",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint . --ext .js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,5 +32,8 @@
     "@typescript-eslint/parser": "^5.47.0",
     "eslint": "^8.30.0",
     "eslint-plugin-node": "^11.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
   }
 }
