@@ -13,7 +13,7 @@
     "plugins": [ "@typescript-eslint", "node" ],
     "rules": {
         "indent": [ "error", "tab" ],
-        "keyword-spacing": [ "error", { "overrides": { "if": { "after": false }, "for": { "after": false }, "while": { "after": false }, "catch": { "after": false } } } ],
+        "keyword-spacing": [ "error", { "overrides": { "if": { "after": false }, "for": { "after": false }, "while": { "after": false }, "catch": { "after": false }, "switch": { "after": false } } } ],
         "space-in-parens": [ "error", "always", { "exceptions": [ "empty" ] } ],
         "computed-property-spacing": [ "error", "always" ],
         "array-bracket-spacing": [ "error", "always" ],
