@@ -1,7 +1,18 @@
+![npm](https://img.shields.io/npm/v/eslint-config-comfycase?style=flat-square) ![GitHub](https://img.shields.io/github/license/instafluff/comfycase?style=flat-square) [![](https://data.jsdelivr.com/v1/package/npm/eslint-config-comfycase/badge)](https://www.jsdelivr.com/package/npm/eslint-config-comfycase)
+
 # ComfyCase
 Comfiest ESLint Settings!
 
 ComfyCase prefers spaces between parentheses, camelCase syntax except for object properties, double quotes, Stroustrup style braces, and indentation with tabs.
+
+## Instafluff ##
+> *Like these projects? The best way to support my open-source projects is by becoming a Comfy Sponsor on GitHub!*
+
+> https://github.com/sponsors/instafluff
+
+> *Come and hang out with us at the Comfiest Corner on Twitch!*
+
+> https://twitch.tv/instafluff
 
 # Instructions
 How to configure your project to use these ESLint settings.
