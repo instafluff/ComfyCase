@@ -28,12 +28,9 @@
   },
   "homepage": "https://github.com/instafluff/ComfyCase#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.47.0",
-    "@typescript-eslint/parser": "^5.47.0",
-    "eslint": "^8.30.0",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.57.1",
     "eslint-plugin-node": "^11.1.0"
-  },
-  "peerDependencies": {
-    "eslint": ">= 3"
   }
 }
